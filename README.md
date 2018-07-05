@@ -47,7 +47,6 @@ After this lesson, you'll be able to
 Check the Jupyter Notebook in the top right of the screen
 
 ## Post Reads
-* [Learning Python for Data Science from Scratch](http://choonsiong.com/public/books/Data%20Science%20from%20Scratch.pdf)
 * Complete Codecademy's free "[Learn Python](https://www.codecademy.com/learn/python)" course to practice your Python syntax. Pay close attention to lists, dictionaries, and functions.
 
 ## Project 
